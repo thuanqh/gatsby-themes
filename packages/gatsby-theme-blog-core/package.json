@@ -1,0 +1,30 @@
+{
+  "name": "@thuanqh/gatsby-theme-blog-core",
+  "version": "1.0.0",
+  "description": "Core Theme for @thuanqh/gatsby-theme-blog.",
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin",
+    "thuanqh",
+    "jasonq"
+  ],
+  "author": "Jason Quach <thuanqh@gmail.com>",
+  "homepage": "https://thuanqh.github.io",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://thuanqh@github.com/thuanqh/gatsby-themes.git",
+    "directory": "packages/gatsby-theme-blog-core"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/thuanqh/gatsby-themes/issues"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.31.1"
+  }
+}
